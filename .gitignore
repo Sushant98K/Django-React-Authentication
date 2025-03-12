@@ -1,0 +1,64 @@
+# Django (Python) specific
+*.log
+*.pot
+*.pyc
+__pycache__/
+.env/
+.env.db
+.env.local
+.env.*.local
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+venv/
+env/
+.myvenv/
+.vscode/
+instance/
+.webassets-cache
+.coverage
+htmlcov/
+
+# Node.js/React/Vite specific
+node_modules/
+dist/
+dist-ssr/
+*.local
+.cache/
+.DS_Store
+.vite/
+.env
+.env.development
+.env.production
+.env.test
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Temporary files
+*.swp
+*.swo
+*~
