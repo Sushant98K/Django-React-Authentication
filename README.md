@@ -2,7 +2,7 @@
 <h1>Django and React Authentication</h1>
 </div>
 
-1. **Environment and Django setup**
+# 1. **Environment and Django setup**
     
 - *create environment*
 
