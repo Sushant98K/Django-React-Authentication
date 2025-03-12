@@ -34,4 +34,28 @@
 
 - *Create an app in the backend project called users*
 
-    ```python manage.py startapp users```
+    ```python manage.py startapp users```   
+
+- *Add Installed apps*
+
+    - INSTALLED_APPS = [
+    "rest_framework",
+    "corsheaders",
+    "users",
+    ]
+
+    - You will also need to add a middleware class to listen in on responses:
+
+    MIDDLEWARE = [
+        "corsheaders.middleware.CorsMiddleware",
+        "django.middleware.common.CommonMiddleware",
+    ]
+
+    - CORS_ALLOWED_ORIGINS = [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    ]
+
+2. React Setup 
+
+    ```npm create vite@latest frontend -- --template react```
