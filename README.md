@@ -4,7 +4,7 @@
 <div align='center'>
 <img src="meta/vite.svg" alt="Vite Logo" width="150" style="margin-right: 20px;" />
 <img src="meta/React-ezgif.com-speed.gif" alt="React Logo" width="150" style="margin-right: 20px;" />
-<img src="meta/django.gif" alt="React Logo" width="150" />
+<img src="meta/django.svg" alt="Django Logo" width="150" />
 </div>
 
 1. **Environment and Django setup**
