@@ -3,6 +3,8 @@
 </div>
 <div align='center'>
 <img src="meta/vite.svg" alt="Vite Logo" width="150" />
+<img src="meta/react.svg" alt="React Logo" width="150" />
+<img src="meta/React.gif" alt="React Logo" width="150" />
 </div>
 
 1. **Environment and Django setup**
