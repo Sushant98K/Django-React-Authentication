@@ -1,6 +1,9 @@
 <div align='center'>
 <h1>Django and React Authentication</h1>
 </div>
+<div align='center'>
+<img src="meta/vite.svg" alt="Vite Logo" width="150" />
+</div>
 
 1. **Environment and Django setup**
     
