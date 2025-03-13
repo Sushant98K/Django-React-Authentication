@@ -13,10 +13,11 @@
     - django
     - django-rest-framework (https://www.django-rest-framework.org/)
     - django-cors-headers (https://pypi.org/project/django-cors-headers/)
+    - djoser (https://djoser.readthedocs.io/en/latest/getting_started.html)
     - djangorestframework-simplejwt (https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
 
 
-    ```pip install Django djangorestframework django-cors-headers djangorestframework-simplejwt PyJWT```
+    ```pip install Django djangorestframework django-cors-headers djangorestframework_simplejwt PyJWT djoser```
 
 - *Activate environment*
     
