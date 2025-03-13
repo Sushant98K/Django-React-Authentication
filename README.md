@@ -65,3 +65,13 @@
 2. React Setup 
 
     ```npm create vite@latest frontend -- --template react```
+
+- Install Dependecies
+    
+    - redux toolkit (https://redux.js.org/introduction/installation)
+    - axios (https://www.npmjs.com/package/axios)
+    - react icons (https://www.npmjs.com/package/react-icons)
+    - react router dom (https://www.npmjs.com/package/react-router-dom?activeTab=dependencies)
+    - react Toastify (https://www.npmjs.com/package/react-toastify)
+
+    ```npm i @reduxjs/toolkit react-redux axios react-icons react-router react-router-dom react-toastify```
